@@ -4,7 +4,7 @@ O intuito inicial era para mudar o css de display: none; para display: block, po
 
 -- No html
 
-<img class="img" src="img/macaco-aberto.png" id="aberto" style="display: none">
+img class="img" src="img/macaco-aberto.png" id="aberto" style="display: none"
 
 -- No JavaScript
 

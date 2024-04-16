@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #9a5833;
+}
+
+
+
+.container {
+    height: 1029px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img {
+    width: 200px;
+    
+}
+
+.button {
+    width: 260px;
+    height: 70px;
+    background-color: #ffb48a;
+    border-radius: 8px;
+    font-size: 22px;
+    font-family: "Abril Fatface", serif;
+    transition: 0.4s;
+}
+
+.button:hover {
+    width: 320px;
+    height: 100px;
+    font-size: 29px;
+    transition: 0.4s;
+    cursor: pointer;
+}
+
+#fechado {
+    transition: 0.5s;
+}
+
+#aberto {
+    transition: 0.5s;
+}
